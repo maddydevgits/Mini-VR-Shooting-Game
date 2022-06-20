@@ -15,5 +15,8 @@ Mini Shooting Game is a puzzle game which the user has to shoot the balls as per
 5. Install APK in mobile
 6. Play Game
 
+# Output Video
+https://youtu.be/eqU1L2fGWwI
+
 # Questions
 For questions, do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
